@@ -24,7 +24,7 @@ jobs:
       matrix:
         include:
           - build_variant: "mt7621"
-            targets: "K2P"
+            targets: "K2P-USB"
     steps:
       - uses: actions/checkout@v2
       - name: Prepare environment
