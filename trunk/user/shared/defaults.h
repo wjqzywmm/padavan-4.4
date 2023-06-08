@@ -30,7 +30,7 @@
 #define SYS_USER_NOBODY		"nobody"
 #define SYS_GROUP_NOGROUP	"nogroup"
 
-#define DEF_LAN_ADDR		"172.17.250.1"
+#define DEF_LAN_ADDR		"172.17.250.254"
 #define DEF_LAN_DHCP_BEG	"172.17.250.100"
 #define DEF_LAN_DHCP_END	"172.17.250.110"
 #define DEF_LAN_MASK		"255.255.255.0"
